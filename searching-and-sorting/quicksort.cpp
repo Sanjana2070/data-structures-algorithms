@@ -1,4 +1,9 @@
  //quicksort
+    void swap(int& a, int& b){
+        int temp = a;
+        a = b;
+        b = temp;
+    }
     int partition(vector<int>& nums, int s, int e){
         int i = s - 1;
         int j = s;
