@@ -6,9 +6,7 @@
 4. Count and Sum of Nodes
 5. Minimum and Maximum Depth of a Binary Tree
 
-<br />
 <hr />
-<br />
 
 ## Day 2: Sorting Algorithms
 1. Bubble Sort
@@ -17,6 +15,4 @@
 4. Merge Sort
 5. Quick Sort
 
-<br />
 <hr />
-<br />
